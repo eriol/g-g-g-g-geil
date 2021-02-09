@@ -8,5 +8,5 @@ For details see the [original video clip](https://www.youtube.com/watch?v=w_P3uw
 ## Install ##
 
 ```console
-% go get eriol.xyz/g-g-g-g-geil
+% go get noa.mornie.org/eriol/g-g-g-g-geil
 ```
